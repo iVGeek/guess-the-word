@@ -13,7 +13,7 @@ Should the player successfully guess all letters before exhausting their 8 allot
 
 ## Launch
 
-Play the Guess the Word Game here (good luck!): 
+Play the Guess the Word Game here (good luck!): https://ivgeek.github.io/guess-the-word/
 
 
 
