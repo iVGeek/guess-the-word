@@ -1,8 +1,8 @@
 # Guess the Word Game
 
-This game uses JavaScript to loop through arrays, utilize proper methods, use regular expressions, and fetch an API.
+This game employs JavaScript to iterate through arrays, employ appropriate methods, employ regular expressions, and access an external API.
 
-I added additional features - a scoring system, max length on the text input, removing the autocomplete, disabling the "Guess" button if the text field is empty, and media queries.
+Extra features have been incorporated, including a scoring mechanism, a maximum length restriction on the text input, disabling autocomplete, deactivating the "Guess" button if the text field is empty, and the implementation of media queries.
 
 <img width="359" alt="Screen Shot 2022-04-20 at 11 39 41 AM" src="https://user-images.githubusercontent.com/60168324/164303934-dbe35c98-e469-4be2-a538-095cc4cbdd47.png">
 
